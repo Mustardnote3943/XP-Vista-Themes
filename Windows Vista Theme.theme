@@ -1,0 +1,71 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=Windows Vista Theme
+ThemeId={FEB029A6-6EC6-4C8E-8B1B-FBA6E5EBB667}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%USERPROFILE%\Downloads\Displays\Display001.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%USERPROFILE%\Downloads\Folders\Folder174.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%USERPROFILE%\Downloads\Displays\Display020.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%USERPROFILE%\Downloads\Control Panel\CP020.ico
+Empty=%USERPROFILE%\Downloads\Control Panel\CP018.ico
+
+[Control Panel\Cursors]
+AppStarting=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Working in Background.ani
+Arrow=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Normal Select.cur
+Crosshair=
+Hand=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Link Select.cur
+Help=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Help Select.cur
+IBeam=
+No=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Unavailable .cur
+NWPen=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Handwriting.cur
+SizeAll=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Move.cur
+SizeNESW=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Diagonal Resize 2.cur
+SizeNS=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Vertical Resize.cur
+SizeNWSE=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Diagonal Resize 1.cur
+SizeWE=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Horizontal Resize.cur
+UpArrow=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Alternate Select.cur
+Wait=%USERPROFILE%\OneDrive\Desktop\stuff\Cursors 1\Busy.ani
+DefaultValue=Windows Vista/7 aero pointer
+
+[Control Panel\Desktop]
+Wallpaper=%USERPROFILE%\OneDrive\Desktop\stuff\Windows Vista Wallpaper.jpg
+Pattern=
+MultimonBackgrounds=0
+PicturePosition=2
+WallpaperWriteTime=132689661595179487
+
+[VisualStyles]
+Path=%SystemRoot%\resources\themes\Aero\Aero.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC4107C10
+SystemMode=Dark
+AppMode=Dark
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Windows Default (modified)
+
+[AppEvents\Schemes\Apps\.Default\Notification.Default]
+DefaultValue=%SystemRoot%\media\Windows Notify.wav

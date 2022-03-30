@@ -1,0 +1,113 @@
+; Copyright © Microsoft Corp.
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=XP Aero Lite Theme
+ThemeId={7C6C8549-65B4-4B2D-972D-76812DD49A00}
+
+; Computer - SHIDI_SERVER
+[CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\DefaultIcon]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPicons\Win XP icons\16.ico
+
+; UsersFiles - SHIDI_USERFILES
+[CLSID\{59031A47-3F72-44A7-89C5-5595FE6B30EE}\DefaultIcon]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPicons\Win XP icons\269.ico
+
+; Network - SHIDI_MYNETWORK
+[CLSID\{F02C1A0D-BE21-4350-88B0-7367FC96EF3C}\DefaultIcon]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPicons\Win XP icons\18.ico
+
+; Recycle Bin - SHIDI_RECYCLERFULL SHIDI_RECYCLER
+[CLSID\{645FF040-5081-101B-9F08-00AA002F954E}\DefaultIcon]
+Full=%USERPROFILE%\OneDrive\Desktop\stuff\XPicons\Win XP icons\33.ico
+Empty=%USERPROFILE%\OneDrive\Desktop\stuff\XPicons\Win XP icons\32.ico
+
+[Control Panel\Cursors]
+AppStarting=
+Arrow=
+Crosshair=
+Hand=
+Help=
+IBeam=
+No=
+NWPen=
+SizeAll=
+SizeNESW=
+SizeNS=
+SizeNWSE=
+SizeWE=
+UpArrow=
+Wait=
+DefaultValue=
+
+[Control Panel\Desktop]
+Wallpaper=%SystemRoot%\web\wallpaper\Windows\img0.jpg
+Pattern=
+MultimonBackgrounds=1
+Wallpaper1=%USERPROFILE%\onedrive\desktop\stuff\90278.jpg
+Wallpaper2=%USERPROFILE%\onedrive\desktop\stuff\windows vista wallpaper.jpg
+PicturePosition=2
+WallpaperWriteTime=132689661590000000
+
+[VisualStyles]
+Path=%SystemRoot%\resources\Themes\aero\aerolite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0XC40078D4
+SystemMode=Dark
+AppMode=Dark
+VisualStyleVersion=10
+
+[boot]
+SCRNSAVE.EXE=
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Sounds]
+; IDS_SCHEME_DEFAULT
+SchemeName=Windows XP sounds
+
+[AppEvents\Schemes\Apps\.Default\.Default]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Default.wav
+[AppEvents\Schemes\Apps\.Default\AppGPFault]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Error.wav
+[AppEvents\Schemes\Apps\.Default\CCSelect]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Start.wav
+[AppEvents\Schemes\Apps\.Default\CriticalBatteryAlarm]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Battery Critical.wav
+[AppEvents\Schemes\Apps\.Default\DeviceConnect]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Hardware Insert.wav
+[AppEvents\Schemes\Apps\.Default\DeviceDisconnect]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Hardware Remove.wav
+[AppEvents\Schemes\Apps\.Default\DeviceFail]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Hardware Fail.wav
+[AppEvents\Schemes\Apps\.Default\LowBatteryAlarm]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Battery Low.wav
+[AppEvents\Schemes\Apps\.Default\Maximize]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Minimize.wav
+[AppEvents\Schemes\Apps\.Default\MenuCommand]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Menu Command.wav
+[AppEvents\Schemes\Apps\.Default\Minimize]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Minimize.wav
+[AppEvents\Schemes\Apps\.Default\Notification.Default]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Notify.wav
+[AppEvents\Schemes\Apps\.Default\PrintComplete]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Print complete.wav
+[AppEvents\Schemes\Apps\.Default\SystemExclamation]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Exclamation.wav
+[AppEvents\Schemes\Apps\.Default\SystemHand]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Critical Stop.wav
+[AppEvents\Schemes\Apps\.Default\SystemNotification]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Notify.wav
+[AppEvents\Schemes\Apps\Explorer\BlockedPopup]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows Pop-up Blocked.wav
+[AppEvents\Schemes\Apps\Explorer\EmptyRecycleBin]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows XP Recycle.wav
+[AppEvents\Schemes\Apps\Explorer\FeedDiscovered]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows Feed Discovered.wav
+[AppEvents\Schemes\Apps\Explorer\Navigating]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows Navigation Start.wav
+[AppEvents\Schemes\Apps\Explorer\SecurityBand]
+DefaultValue=%USERPROFILE%\OneDrive\Desktop\stuff\XPsounds\Windows Information Bar.wav
