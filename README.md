@@ -1,4 +1,7 @@
 # 11XP-Themes
+
+THE FILES AREN'T OWNED BY ME EXCEPT THE .THEME FILES. THIS IS JUST TO PACK ALL OF THEM TOGETHER SO I DON"T AND YOU DON"T HAVE TO FIND THEM AGAIN.
+
 These themes are for Retrobar, Open Shell. i also use ExplorerPatcher, Windows XP shutdown screen remake and, Winaero Tweaker. they make it seem more like XP. it was only tested on Windows 11. not sure if it works on windows 10 or below.
 also, please let me know if it works on windows 10 or below. this is packed with Themes, Wallpapers and open shell skins. when you put on the theme, you need to add a wallpaper.
 i found these wallpapers and open shell skins from websites. i might make a tutorial on how to make Windows 11 look like XP.
