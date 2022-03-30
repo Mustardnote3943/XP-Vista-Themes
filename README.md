@@ -7,6 +7,8 @@ also, please let me know if it works on windows 10 or below. this is packed with
 i found these wallpapers and open shell skins from websites. i might make a tutorial on how to make Windows 11 look like XP.
 i packed them together. please know there may some issues in Windows 11 like turning aero lite theme will give you sort of light theme bar on file explorer.
 
+there is a plenty of wallpapers.
+
 (also, i lost my whole paragraphs. so i had to retype. i had no internet.)
 
 INSTRUCTIONS:
