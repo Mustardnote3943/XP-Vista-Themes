@@ -8,7 +8,7 @@ i found these wallpapers and open shell skins from websites. i might make a tuto
 i packed them together. please know there may some issues in Windows 11 like turning aero lite theme will give you sort of light theme bar on file explorer.
 
 there is a plenty of wallpapers.
-
+i added in cursors from Windows XP on VM. it has more cursors.
 (also, i lost my whole paragraphs. so i had to retype. i had no internet.)
 
 INSTRUCTIONS:
