@@ -17,4 +17,10 @@ then drag the theme files in there and then the Windows theme customization tool
 
 for the open shell skin to go to C:\Program Files\Open-Shell\Skins then drag the skins into the folder. YOU NEED TO throw in the 2 two folders which are named "XML Menu Settings" and "Extra icon  images if need to include them in the second column".
 
-UPDATE: added a file that fixes the windows vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken.
+UPDATE: added a file that fixes the windows vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken. you might be able to do the windows vista theme yourself, make sure you use basicthemer2 as it gives the windows vista/7 theme. (https://github.com/Ingan121/BasicThemer2) I also decided to add in Windows XP Shutdown and Logoff menus for modern Windows, I did this because the 2 websites are down, and here is a forum of his post:
+
+https://weedtrek.ca/XPshutdown.html (the download page)
+https://weedtrek.ca This is down as well.
+https://www.tenforums.com/customization/172843-windows-xp-shutdown-logoff-menus-modern-windows.html (forum website and it's not down)
+
+(anyways, the folder is called XP_shutdown)
