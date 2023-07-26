@@ -17,4 +17,4 @@ then drag the theme files in there and then the Windows theme customization tool
 
 for the open shell skin to go to C:\Program Files\Open-Shell\Skins then drag the skins into the folder. YOU NEED TO throw in the 2 two folders which are named "XML Menu Settings" and "Extra icon  images if need to include them in the second column".
 
-UPDATE: added a file that fixes the windows vista start menu shutdown button's size.
+UPDATE: added a file that fixes the windows vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken.
