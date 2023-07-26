@@ -23,4 +23,4 @@ https://weedtrek.ca/XPshutdown.html (the download page)
 https://weedtrek.ca This is down as well.
 https://www.tenforums.com/customization/172843-windows-xp-shutdown-logoff-menus-modern-windows.html (forum website and it's not down)
 
-(anyways, the folder is called XP_shutdown)
+(anyways, the zip file is called XP_shutdown)
