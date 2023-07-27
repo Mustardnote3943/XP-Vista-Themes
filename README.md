@@ -24,3 +24,9 @@ https://weedtrek.ca This is down as well.
 https://www.tenforums.com/customization/172843-windows-xp-shutdown-logoff-menus-modern-windows.html (forum website and it's not down)
 
 (anyways, the zip file is called XP_shutdown)
+okay, a little quick note, you might need winaero tweaker for basicthemer2 and change the window's border in Winaero tweaker to match the basic theme's original size which are:
+
+Border width: 1
+Border padding: 4
+
+alright, that's that.
