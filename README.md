@@ -29,4 +29,4 @@ okay, a little quick note, you might need winaero tweaker for basicthemer2 and c
 Border width: 1
 Border padding: 4
 
-alright, that's that.
+then apply changes
