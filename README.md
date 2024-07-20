@@ -17,9 +17,7 @@ then drag the theme files in there and the Windows theme customization tool from
 
 for the open shell skin go to C:\Program Files\Open-Shell\Skins then drag the skins into the folder. YOU NEED TO throw in the 2 two folders which are named "XML Menu Settings" and "Extra icon  images if need to include them in the second column".
 
-UPDATE 1: added a file that fixes the Windows Vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken. you might be able to do the windows vista theme yourself, make sure you use basicthemer2 as it gives the windows vista/7 theme. (https://github.com/Ingan121/BasicThemer2) I also decided to add in Windows XP Shutdown and Logoff menus for modern Windows, I did this because the 2 websites are down, and here is a forum of his post:
-
-UPDATE 2: 
+but these folders probably do nothing, possibly.
 
 https://weedtrek.ca/XPshutdown.html (the download page)
 https://weedtrek.ca This is down as well.
@@ -32,3 +30,9 @@ Border width: 1
 Border padding: 4
 
 then apply changes
+
+UPDATE 1: added a file that fixes the Windows Vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken. you might be able to do the windows vista theme yourself, make sure you use basicthemer2 as it gives the windows vista/7 theme. (https://github.com/Ingan121/BasicThemer2) I also decided to add in Windows XP Shutdown and Logoff menus for modern Windows, I did this because the 2 websites are down, and here is a forum of his post:
+
+UPDATE 2: Added Windows Vista start menu. use StartMenuL10N.ini with the start menu so it'll fix the button
+
+UPDATE 3: Added "Windows 11 to Vista Transformation Pack.7z". found this somewhere on the internet and it's meant for Windows 11. there is some useful stuff like changing the icons and micaforeveryone which lets you get translucent windows. this will just be here for easy access since it is somewhere in a forum.
