@@ -1,5 +1,8 @@
 # XP-Vista-Themes
 
+The purpose of doing this is to gather resources here for customizing Windows 10/11 to make it easily accessible for those who want to customize Windows. although, it may be aimed more at old Windows themes like 2000, XP, Vista, etc.
+
+
 THE FILES AREN'T OWNED BY ME EXCEPT THE .THEME FILES. THIS IS JUST TO PACK ALL OF THEM TOGETHER SO I DON'T AND YOU DON'T HAVE TO FIND THEM AGAIN.
 
 These themes are for Retrobar (https://github.com/dremin/RetroBar), and Open Shell (https://open-shell.github.io/Open-Shell-Menu/). I also use ExplorerPatcher (https://github.com/valinet/ExplorerPatcher), Windows XP shutdown screen remake, and, Winaero Tweaker (https://winaerotweaker.com/). they make it seem more like XP. It was only tested on Windows 11. not sure if it works on Windows 10 or below.
@@ -38,3 +41,5 @@ UPDATE 2: Added Windows Vista start menu. use StartMenuL10N.ini with the start m
 UPDATE 3: I think this will be useful so here: https://drive.usercontent.google.com/download?id=1LWlkJbwnGp-FVywSeQcXob_sbqaI7ies&export=download&confirm=t&uuid=4dc64e9c-6b15-4319-aaa5-b17372a86221 
 
 I found this somewhere on the internet and it's meant for Windows 11. This is just the download link from google drive. there is some useful stuff like changing the icons and micaforeveryone which lets you get translucent windows. this will just be here for easy access since it is somewhere in a forum.
+
+here's a youtube video I found about transforming windows 10 to windows vista: https://www.youtube.com/watch?v=2_IEQpvvZ8g
