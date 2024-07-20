@@ -33,6 +33,7 @@ Border width: 1
 Border padding: 4
 
 then apply changes
+for the Windows Vista basic theme title bar size value should be 20 but keep it at 22 if you want Windows 7 and up original size.
 
 UPDATE 1: added a file that fixes the Windows Vista start menu shutdown button's size. I believe it is the file named "StartMenuL10N.ini", that might be it BUT once you do replace the file with this file in the open shell directory, I think some start menu themes would be broken. you might be able to do the windows vista theme yourself, make sure you use basicthemer2 as it gives the windows vista/7 theme. (https://github.com/Ingan121/BasicThemer2) I also decided to add in Windows XP Shutdown and Logoff menus for modern Windows, I did this because the 2 websites are down, and here is a forum of his post:
 
